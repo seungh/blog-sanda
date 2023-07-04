@@ -150,7 +150,7 @@ header_pages:
   - archives.html
   - categories.html
   - tags.html
-  - post.html
+  - posts.html
 
 # Page default value
 defaults:
