@@ -6,7 +6,7 @@ tags: [ALDI, 음식]
 ---
 ![Chili con Carne](/assets/images/posts/IMG_5903.jpg)
 
-이 제품은 독일의 슈퍼마켓 알디에서 판매하는 Praktisch Fertig (초간편) 시리즈의 인스턴트 식품이다. 정식 제품명은 Chili con Carne mit Rinderhackfleisch, roten Bohnen, Tomaten, Mais, Paprika und Zwiebeln. 즉 '다진 소고기, 빨간 강낭콩, 토마토, 옥수수, 파프리카와 양파로 만든 칠리 콘 카르네'라는 이름이다.
+이 제품은 독일의 슈퍼마켓 알디에서 판매하는 Praktisch Fertig (초간편) 시리즈의 인스턴트 식품이다. 정식 제품명은 Chili con Carne mit Rinderhackfleisch, roten Bohnen, Tomaten, Mais, Paprika und Zwiebeln. 즉 '다진 소고기, 빨간 강낭콩, 토마토, 옥수수, 파프리카와 양파로 만든 칠리 콘 카르네'라는 뜻이다. 
 
 알디 제품답게 가격이 몹시 저렴하다. 2.49유로!
 
