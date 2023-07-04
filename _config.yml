@@ -26,7 +26,7 @@
 
 title: 나는 산다 독일
 email: seungh.sh@gmail.com
-author: seungh
+author: Seunghan
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -40,7 +40,8 @@ author: seungh
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+# copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Copyright (c) 2023 {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   내가 독일에서 사는 거 쓴다. 안 사는 거도 쓴다. 
