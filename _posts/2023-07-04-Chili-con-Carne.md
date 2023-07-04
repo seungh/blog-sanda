@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ALDI Praktisch Fertig Chili con Carne
+subtitle: ALDI 초간편 칠리 콘 카르네
 categories: 산다
 tags: [ALDI, 음식]
 ---
