@@ -43,7 +43,7 @@ author: seungh
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  내가 독일에서 사는 거를 쓴다. 안사는 거도 쓴다. 
+  내가 독일에서 사는 거 쓴다. 안 사는 거도 쓴다. 
 
 baseurl: "/blog-sanda" # the subpath of your site, e.g. /blog
 url: "https://seungh.github.io" # the base hostname & protocol for your site, e.g. https://example.com
