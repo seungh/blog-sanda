@@ -2,7 +2,7 @@
 layout: post
 title: DM Automatisches Duftspray Lotus Traum
 categories: 안산다
-tags: [생활용품, 안산다]
+tags: [생활용품]
 ---
 ![Lotus Traum](/assets/images/posts/IMG_2630.JPG)
 
