@@ -44,7 +44,7 @@ author: SEUNGH
 copyright: "Copyright (c) 2023 {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  내가 독일에서 사는 거 쓴다. 안 사는 거도 쓴다. 
+  나는 쓴다. 독일에서 산 거. 안 사는 거도 쓴다.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.seung.de" # the base hostname & protocol for your site, e.g. https://example.com
