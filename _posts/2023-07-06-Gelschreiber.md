@@ -1,11 +1,10 @@
 ---
 layout: post
-title: ROSSMANN 볼펜
+title: ROSSMANN 4색 볼펜
 subtitle: ROSSMANN Gelschreiber 4er-Set
 categories: 산다
 tags: [ROSSMANN, 문구]
 ---
-
 ![Gelschreiber](/assets/images/posts/IMG_2874.webp)
 
 볼펜 소비는 많은데 취향에 맞는 펜은 비싸서 고민이었다. 로스만 볼펜을 발견한 후로 고민 해결.
