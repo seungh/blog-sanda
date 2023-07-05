@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ALDI Praktisch Fertig Chili con Carne
-subtitle: ALDI 초간편 칠리 콘 카르네
+title: ALDI 초간편 칠리 콘 카르네
+subtitle: ALDI Praktisch Fertig Chili con Carne
 categories: 산다
 tags: [ALDI, 음식, 다이어트]
 ---
