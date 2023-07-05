@@ -157,7 +157,7 @@ header_pages:
 defaults:
   home:
     heading: "나는 산다 독일"
-    subheading: "나는 쓴다 독일에서 산거"
+    subheading: "쓴다 독일에서 산거"
 #     banner: "Your image url"
 
 # Banner default settings
