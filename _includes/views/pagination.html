@@ -35,11 +35,11 @@
         </p>
       </a>
       <div class="post-tags">
-        {%- for tag in post.tags -%}
-        <a class="post-tag" href="{{ '/tags.html ' | relative_url }}#{{tag}}">#{{tag}}</a>
-        {%- endfor -%}
         {%- for cate in post.categories -%}
         <a class="post-tag" href="{{ '/categories.html ' | relative_url }}#{{tag}}">#{{cate}}</a> 
+        {%- endfor -%}        
+        {%- for tag in post.tags -%}
+        <a class="post-tag" href="{{ '/tags.html ' | relative_url }}#{{tag}}">#{{tag}}</a>
         {%- endfor -%}
       </div>
     </li>
