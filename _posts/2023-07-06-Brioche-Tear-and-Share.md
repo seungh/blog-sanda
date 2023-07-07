@@ -6,7 +6,7 @@ categories: 산다
 tags: [ALDI, 식품]
 ---
 
-![Brioche Tear & Share](/assets/images/posts/2023-07-07-brioche.webp)
+![Brioche Tear & Share](/assets/images/posts/2023-07-06-brioche.webp)
 
 알디에서 PB 상품으로 나온 빵이다.
 

@@ -6,7 +6,7 @@ categories: 산다
 tags: [ROSSMANN, 문구]
 ---
 
-![Gelschreiber](/assets/images/posts/2023-07-05-gelschreiber.webp)
+![Gelschreiber](/assets/images/posts/2023-07-03-gelschreiber.webp)
 
 나는 볼펜 소비 많은데 독일은 문구류 비싸다. 좋아하는 펜은 더 비싸다. 로스만에서 이 볼펜을 발견했다. 고민 해결됐다.
 
