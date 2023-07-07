@@ -41,7 +41,7 @@ author: HAN, SEUNG
 #   "Copyright © 2017-2021 Foobar"
 #
 # copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
-copyright: "Copyright (c) 2023 {author}"
+copyright: "Copyright (c) 2022-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   나는 산다. 독일. 쓴다. 독일에서 사는거. 안 사는 거도.
