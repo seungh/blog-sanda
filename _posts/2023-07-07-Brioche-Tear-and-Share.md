@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ALDI Tear & Share 브리오슈
-subtitle: ALDI Meine Kuchen Welt Brioche Tear & Share
+subtitle: ALDI Meine Kuchenwelt Brioche Tear & Share
 categories: 산다
 tags: [ALDI, 식품]
 ---
