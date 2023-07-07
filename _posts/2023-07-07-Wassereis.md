@@ -1,12 +1,12 @@
 ---
 layout: post
-title: SUN LOLLY WASEREIS 썬 롤리 워터 아이스
-subtitle: SUN LOLLY WASEREIS
+title: SUN LOLLY WASSEREIS 썬 롤리 워터 아이스
+subtitle: SUN LOLLY WASSEREIS
 categories: 산다
 tags: [REWE, SUN LOLLY, 식품]
 ---
 
-![SUN LOLLY WASSEREIS](/assets/images/posts/2023-07-07-Wasereis.webp)
+![SUN LOLLY WASSEREIS](/assets/images/posts/2023-07-07-Wassereis.webp)
 
 나는 이거 레베에서 산다. 리들에서도 판다는데 나는 못봤다.
 
