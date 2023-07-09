@@ -159,7 +159,7 @@ defaults:
   home:
     heading: "나는 산다 독일"
     subheading: "쓴다 독일에서 사는거"
-    banner: "/asstes/images/banners/home.webp"
+    banner: "/assets/images/banners/home.webp"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
