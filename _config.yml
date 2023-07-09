@@ -161,9 +161,6 @@ defaults:
     subheading: "쓴다 독일에서 사는거"
     banner: "/asstes/images/banners/home.webp"
 
-image:
-  pass: "/asstes/images/banners/home.webp"
-
 # Banner default settings
 # These banner settings are for global banner default, but you can also
 # config it by the front matter for one specific post
