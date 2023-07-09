@@ -227,8 +227,8 @@ markdown: kramdown
 kmarkdown:
   input: GFM
 
-# post automatically
-future: false
+# future
+future: ture
 
 plugins:
   - jekyll-feed
