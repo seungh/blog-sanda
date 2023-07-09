@@ -228,7 +228,7 @@ kmarkdown:
   input: GFM
 
 # post automatically
-future: true
+future: false
 
 plugins:
   - jekyll-feed
