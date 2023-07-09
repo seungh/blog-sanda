@@ -5,10 +5,10 @@ subtitle: ROSSMANN Gelschreiber 4er-Set
 categories: 산다
 tags: [ROSSMANN, 문구]
 image:
-  path: /assets/images/posts/2023-07-03-gelschreiber.webp
+  path: /assets/images/posts/2023-06-29-gelschreiber.webp
 ---
 
-![Gelschreiber](/assets/images/posts/2023-07-03-gelschreiber.webp)
+![Gelschreiber](/assets/images/posts/2023-06-29-gelschreiber.webp)
 
 나는 볼펜 소비 많다. 하지만 독일은 문구류 비싸다. 좋아하는 펜은 더 비싸다. 뭐로 써야할지 몰랐다. 하지만 로스만에서 이 볼펜 발견했다. 고민 해결됐다.
 

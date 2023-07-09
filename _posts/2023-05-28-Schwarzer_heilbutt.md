@@ -5,10 +5,10 @@ subtitle: GOURMET Schwarzer Heilbutt
 categories: 안산다
 tags: [ALDI, GOURMET, 식품]
 image:
-  path: /assets/images/posts/2023-06-28-schwarzer-heilbutt.JPG
+  path: /assets/images/posts/2023-05-28-schwarzer-heilbutt.JPG
 ---
 
-![Schwarzer Heilbutt](/assets/images/posts/2023-06-28-schwarzer-heilbutt.JPG)
+![Schwarzer Heilbutt](/assets/images/posts/2023-05-28-schwarzer-heilbutt.JPG)
 
 옛날에 산거지만 상기 차원에서 남긴다.
 
