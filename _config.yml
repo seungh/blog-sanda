@@ -156,7 +156,7 @@ header_pages:
 
 # Page default value
 defaults:
-  banner: "/asstes/images/banners/home.webp"
+  image: "/asstes/images/banners/home.webp"
   home:
     heading: "나는 산다 독일"
     subheading: "쓴다 독일에서 사는거"
