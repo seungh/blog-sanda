@@ -158,7 +158,7 @@ defaults:
   home:
     heading: "나는 산다 독일"
     subheading: "쓴다 독일에서 사는거"
-#     banner: "Your image url"
+    banner: "/asstes/images/banners/home.webp"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
@@ -180,7 +180,7 @@ defaults:
 # excerpt_size: 350
 
 # Pagination setting
-# paginate: 5
+paginate: 10
 
 # Photo previewer settings (PhotoSwipe 5)
 # the options please refer to: https://photoswipe.com/options/
@@ -222,6 +222,9 @@ defaults:
 markdown: kramdown
 kmarkdown:
   input: GFM
+
+# post automatically
+future: true
 
 plugins:
   - jekyll-feed
