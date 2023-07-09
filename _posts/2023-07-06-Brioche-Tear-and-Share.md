@@ -4,6 +4,8 @@ title: ALDI Tear & Share 브리오슈
 subtitle: ALDI Meine Kuchenwelt Brioche Tear & Share
 categories: 산다
 tags: [ALDI, 식품]
+image:
+  path: /assets/images/posts/2023-07-06-brioche.webp
 ---
 
 ![Brioche Tear & Share](/assets/images/posts/2023-07-06-brioche.webp)

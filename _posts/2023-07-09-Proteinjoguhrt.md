@@ -4,6 +4,8 @@ title: NETTO 하이프로틴 요거트
 subtitle: NETTO Gutes Land HIGH PROTEIN JOGHURT
 categories: 산다
 tags: [NETTO, 식품, 다이어트]
+image:
+  path: /assets/images/posts/2023-07-09-Proteinjoguhrt-1.webp
 ---
 
 ![Proteinjoguhrt](/assets/images/posts/2023-07-09-Proteinjoguhrt-1.webp)

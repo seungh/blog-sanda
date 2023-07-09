@@ -4,6 +4,8 @@ title: ROSSMANN 4색 볼펜
 subtitle: ROSSMANN Gelschreiber 4er-Set
 categories: 산다
 tags: [ROSSMANN, 문구]
+image:
+  path: /assets/images/posts/2023-07-03-gelschreiber.webp
 ---
 
 ![Gelschreiber](/assets/images/posts/2023-07-03-gelschreiber.webp)

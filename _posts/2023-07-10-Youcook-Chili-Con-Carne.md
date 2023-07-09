@@ -4,6 +4,8 @@ title: YOUCOOK 칠리 콘 카르네
 subtitle: YOUCOOK Chili Con Carne mit Nacho-Käse-Sauce
 categories: 안산다
 tags: [REWE, EDEKA, 식품]
+image:
+  path: /assets/images/posts/IMG_5924.webp
 ---
 
 ![](/assets/images/posts/IMG_5924.webp)

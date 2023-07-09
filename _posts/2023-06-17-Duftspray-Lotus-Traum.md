@@ -4,6 +4,8 @@ title: DM 자동분사 방향제 스프레이 연꽃 드림
 subtitle: DM Automatisches Duftspray Lotus Traum
 categories: 안산다
 tags: [DM, 생활용품]
+image:
+  path: /assets/images/posts/2023-06-17-lotus-1.JPG
 ---
 
 ![Lotus Traum](/assets/images/posts/2023-06-17-lotus-1.JPG)
