@@ -69,6 +69,9 @@ yat:
 google_analytics: G-4EYBCQN7X5
 # enableDNT: "false"
 
+# Naver Analytics
+naver_analytics: 2d1fda79eaaa00
+
 # If you want to generate website sitemap, you can set true
 # sitemap: false
 
