@@ -1,6 +1,6 @@
 ---
 layout: post
-title: REWE 삼겹살 & 목살
+title: REWE 삼겹살 & 목살 세일
 subtitle: REWE Schweinebauch & Nackeckfleisch
 categories: 산다
 tags: [식품, 육류]
