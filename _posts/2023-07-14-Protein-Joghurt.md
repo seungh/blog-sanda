@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EDEKA GUT & GÜNSTIG 프로틴 요거트
-subtitle: EDEKA GUT & GÜNSTIG Protein Joghurt
+subtitle: EDEKA GUT & GÜNSTIG High Protein Joghurt
 categories: 산다
 tags: [EDEKA, 식품, 다이어트]
 image:
