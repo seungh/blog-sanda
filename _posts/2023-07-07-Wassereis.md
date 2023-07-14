@@ -3,7 +3,7 @@ layout: post
 title: SUN LOLLY WASSEREIS 썬 롤리 워터 아이스
 subtitle: SUN LOLLY WASSEREIS
 categories: 산다
-tags: [REWE, 식품]
+tags: [REWE, 식품, SUN LOLLY]
 image:
   path: /assets/images/posts/2023-07-07-Wassereis.webp
 ---
