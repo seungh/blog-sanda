@@ -2,8 +2,8 @@
 layout: post
 title: 앱솔루트 보드카
 subtitle: ABSOULT VODKA
-categories: 산다
-tags: [주류, 보드카, 가성비]
+categories: 할인중
+tags: [주류, 보드카]
 image:
   path: /assets/images/posts/2023/IMG_6036.webp
 ---
