@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 앱솔루트 보드카
-subtitle: ABSOULT VODKA
+title: ALDI 앱솔루트 보드카 세일
+subtitle: ALDI ABSOULT VODKA
 categories: 할인중
-tags: [주류, 보드카]
+tags: [ALDI, 주류, 보드카]
 image:
   path: /assets/images/posts/2023/IMG_6036.webp
 ---
