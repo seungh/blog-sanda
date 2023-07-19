@@ -244,7 +244,7 @@ kmarkdown:
   input: GFM
 
 # future
-future: ture
+future: false
 
 plugins:
   - jekyll-feed
