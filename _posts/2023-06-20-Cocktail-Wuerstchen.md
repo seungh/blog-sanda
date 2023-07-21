@@ -3,7 +3,7 @@ layout: post
 title: ALDI 칵테일 소세지
 subtitle: ALDI Cocktail-Würstchen
 categories: 안산다
-tags: [ALDI, 식품]
+tags: [ALDI, 식품, 육가공품]
 image:
   path: /assets/images/posts/IMG_5802.webp
 ---
