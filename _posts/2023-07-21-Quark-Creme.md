@@ -12,7 +12,7 @@ image:
 
 크박은 독일식 유제품인데 요거트와 치즈의 중간쯤 되는 음식이다. 크박에 잼 섞어서 퍼먹거나 빵에 발라먹는다. 크박. 이름만 들어도 강력한 느낌난다. 질감 몹시 터프하다.
 
-이것은 크박으로 만든 크박크림이다. 전에 올린 과일맛 하이프로틴 요거트와 비슷한 느낌이다.
+이것은 크박으로 만든 크박크림이다. 전에 올린 과일맛 하이프로틴 요거트와 비슷한 느낌이다.\
 [https://blog.seung.de/산다/2023/07/09/Proteinjoguhrt.html](https://blog.seung.de/%EC%82%B0%EB%8B%A4/2023/07/09/Proteinjoguhrt.html) \
 [https://blog.seung.de/산다/2023/07/14/Protein-Joghurt.html](https://blog.seung.de/%EC%82%B0%EB%8B%A4/2023/07/14/Protein-Joghurt.html)
 
