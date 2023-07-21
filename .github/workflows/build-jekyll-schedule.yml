@@ -1,8 +1,9 @@
-name: Build Scheduling
+name: build and deploy every hour
 
 on:
   schedule:
     - cron: "0 * * * *"
+  workflow_dispatch:
 
 jobs:
   build_and_deploy:
