@@ -1,7 +1,7 @@
 ---
 layout: post
-title: GOURMET 냉훈한 검정 가자미
-subtitle: GOURMET Schwarzer Heilbutt
+title: ALDI GOURMET 냉훈한 검정 가자미
+subtitle: ALDI GOURMET Schwarzer Heilbutt
 categories: 안산다
 tags: [ALDI, GOURMET, 식품]
 image:
