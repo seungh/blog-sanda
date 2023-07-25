@@ -3,7 +3,7 @@ layout: post
 title: Netto Gutes Land 크박크림
 subtitle: Netto Gutes Land Quarkcreme
 categories: 안산다
-tags: [Netto, 식품]
+tags: [NETTO, 식품]
 image:
   path: /assets/images/posts/2023/IMG_6068.webp
 ---
