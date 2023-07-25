@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Netto Gutes Land 크박크림
-subtitle: Netto Gutes Land Quarkcreme
+title: NETTO Gutes Land 크박크림
+subtitle: NETTO Gutes Land Quarkcreme
 categories: 안산다
 tags: [NETTO, 식품]
 image:
