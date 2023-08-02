@@ -3,7 +3,7 @@ layout: post
 title: JACK LINK'S 소고기 육포 오리지날
 subtitle: JACK LINK'S Beef Jerky Original
 categories: 산다
-tags: [EDEKA, REWE, 식품, 다이어트]
+tags: [EDEKA, REWE, 식품, 육가공류, 다이어트]
 image:
   path: /assets/images/posts/2023/IMG_6108.webp
 ---
