@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ALDI 예거마이스 매운맛 세일
+title: ALDI 예거마이스터 매운맛 세일
 subtitle: ALDI Jägermeister Scharf
 categories: 할인중
 tags: [ALDI, 주류]
