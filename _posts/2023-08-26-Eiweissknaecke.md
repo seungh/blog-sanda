@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ALDI 단백질 밀가루 크래커
-subtitle: ALDI Eiweiss-Weizen-Knäcke
+subtitle: ALDI Goldähren Eiweiss-Weizen-Knäcke
 categories: 안산다
 tags: [ALDI, 식품, 다이어트]
 image:
