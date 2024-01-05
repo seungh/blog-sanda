@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 빵빵한 김치
-subtitle: 독일 아시아마트
+subtitle: 아시아마트에서 파는 빵빵한 김치
 categories: 산다
 tags: [식품, 한식]
 image:
