@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://blog.seung.de/sitemap.xml
-#DaumWebMasterTool:ead185250c86e523297dd31344c7e9114caf4229658ece6690d1d5bd38a0c4b6:4CEFvnSjZS+Tqiff3vQEZw==
+#DaumWebMasterTool:ead185250c86e523297dd31344c7e9114caf4229658ece6690d1d5bd38a0c4b6:OSmM5/qF9VqmTpKel6l9Og==
