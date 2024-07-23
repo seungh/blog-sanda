@@ -5,7 +5,7 @@ subtitle: ALDI Toilettenpapier XXL
 categories: 산다
 tags: [ALDI, 생활용품]
 image:
-  path: /assets/images/posts/2023/IMG_6085.webp
+  path: /assets/images/posts/2023/IMG_7243.webp
 ---
 
 ![두루마리휴지](/assets/images/posts/2024/IMG_7243.webp)
