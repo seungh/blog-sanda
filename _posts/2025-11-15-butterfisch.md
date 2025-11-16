@@ -32,5 +32,5 @@ image:
 
 아래 링크의 chefkoch 포럼 봐라. 오래전 포스트지만 독일놈들 리들에서 기름치 사서 맛있게 먹고 있다. 요새 마트에는 기름치 잘 없으나 절단면 잘 봐둬라. 기름치 몸통 원통형이라서 필렛으로 뜨지 않고 스테이크로 구울 수 있게 등뼈 수직방향으로 채로 썰어판다.
 
-https://www.chefkoch.de/forum/2,56,235214/Butterfisch-zu-welcher-Art-Fisch-zaehlt-er.html
+[https://www.chefkoch.de/forum/2,56,235214/Butterfisch-zu-welcher-Art-Fisch-zaehlt-er.html](https://www.chefkoch.de/forum/2,56,235214/Butterfisch-zu-welcher-Art-Fisch-zaehlt-er.html)
 
