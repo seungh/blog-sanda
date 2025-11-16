@@ -8,6 +8,8 @@ image:
   path: /assets/images/posts/2025/sushi_menu.png
 ---
 
+![병어는 아주 맛있는 생선이지. 그래서 이름도 버터피시야.](/assets/images/posts/2025/bf.png)
+
 버터피시(Butter Fish)라고 부르는 어종 많다. 사실 매우 맛있는 생선이지.
 
 대표적으로 병어과 물고기를 영어로 the family stromateidae 혹은 butterfish 라고 부른다. 병어 맛있다. 요즘 한국에는 없어서 못 먹는다. 독일 초밥집에서 이 생선 나온다면 문제 없다. 하지만 독일에 병어 안 잡힌다. 아시아산 냉동 제품 수입된거는 몇 번 봤다.
