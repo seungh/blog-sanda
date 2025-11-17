@@ -3,7 +3,7 @@ layout: post
 title: Butterfisch 먹지 마라
 subtitle: Butterfisch 알고 먹어라
 categories: 안산다
-tags: [식품, 초밥, 스시, 생선]
+tags: [식품, 스시, 생선, 해산물]
 image:
   path: /assets/images/posts/2025/sushi_menu.png
 ---
