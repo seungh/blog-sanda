@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Schweine-Krustbraten으로 만드는 냉제육
-subtitle: Schweine-Krustbraten
+subtitle: REWE Schweine-Krustbraten
 categories: 산다
 tags: [REWE, 고기, 식품]
 image:
@@ -14,7 +14,7 @@ image:
 
 ![REQE Schweine-Krustbraten](/assets/images/posts/2024/IMG_7434.jpg)
 
-하지만 한국인은 오븐에만 먹지 않지. 독일놈들은 모르는 수육이란거 해먹는다. 단백질이 분해되게 푹 끓여도 좋지만 요즘 유행하는 냉제육 해먹는다. 몇년전에 국밥집 연 박찬일 옹 알지? 원래 박찬일 옹 레시피인데, 박찬일 옹 꼬붕중에 정호영이라고 일식 요리사 있다. 게으른 놈들도 만들기 쉬워서 정호영 유뷰트에서 조회수 100만 먹었다.
+하지만 한국인은 오븐에만 먹지 않지. 독일놈들은 모르는 수육이란거 해먹는다. 단백질이 분해되게 푹 끓여도 좋지만 요즘 유행하는 냉제육 해먹는다. 몇년전에 국밥집 연 박찬일 옹 알지? 원래 박찬일 옹 레시피인데, 박찬일 옹 꼬붕중에 정호영이라고 일식 요리사 있다. 정호영이 유튜브에 올렸는데 게으른 놈들도 만들기 쉬운데 맛이 아주 좋아서 조회수 100만 먹었다.
 
 [https://www.youtube.com/watch?v=F3d9odPcgek](https://www.youtube.com/watch?v=F3d9odPcgek)
 
