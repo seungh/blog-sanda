@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ALDI 너프먹은 칠리 콘 카르네
-subtitle: ALDI Praktisch Fertig Chili con Carne
+subtitle: ALDI Daylicious Chili con Carne
 categories: 안산다
 tags: [ALDI, 식품, 다이어트]
 image:
@@ -12,6 +12,6 @@ image:
 
 ![ALDI chili con carne](/assets/images/posts/2026/IMG_0632.webp)
 
-이번에 또 너프 먹었다. 이번 너프는 다르다. 용기 1/3 나누고 쌀밥으로 채워졌다. 덕분에 단탄지 비율 엉망됐다. NUTRI SCORE 봐라. C 등급 됐다. 원래 탄수화물 부족하면 따로 빵 한 조각이나 쌀밥 한 숟가락 말아 먹었다. 냉정하게 생각하면 그래도 여전히 먹을만 하다. 하지만 이번 너프는 매우 상한다. 빈정. 
+이번에 또 너프 먹었다. 이번 너프는 다르다. 용기 1/3 나누고 쌀밥으로 채워졌다. 덕분에 단탄지 비율 엉망됐다. NUTRI SCORE 봐라. C 등급 됐다. 원래 탄수화물 부족하면 따로 빵 한 조각이나 쌀밥 한 숟가락 말아 먹었다. 냉정하게 생각하면 그래도 여전히 먹을만 하다. 하지만 이번 너프는 매우 빈정 상한다. 포장 우상단 보아라. Neue Rezeptur? 새로운 레시피라고? 상한다. 빈정.
 
 ![ALDI chili con carne](/assets/images/posts/2026/IMG_0633.webp)
